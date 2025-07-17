@@ -504,6 +504,8 @@ When modifying the chart:
 
 <!-- Testing merge queue functionality -->
 
+<!-- Additional change to test CI triggering on PR updates -->
+
 ## Automation Benefits
 
 The Mage-based automation system provides several key benefits:
