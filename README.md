@@ -502,6 +502,10 @@ When modifying the chart:
 3. Verify the proxy works both within and across namespaces
 4. Check that cleanup procedures work correctly
 
+<!-- Testing merge queue functionality -->
+
+<!-- Additional change to test CI triggering on PR updates -->
+
 ## Automation Benefits
 
 The Mage-based automation system provides several key benefits:
